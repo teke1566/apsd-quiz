@@ -1,0 +1,9 @@
+Task 1.1
+
+1-The system should allow users to add new contacts with the information first name,lastname ,company,jobtitle,2
+2 Users should be able to update existing contacts by modifying any of their fields or adding/removing phone numbers and email addresses.
+3 The system should support deleting contacts from the database.
+4 Users should be able to search for contacts by their first name, last name, company, job title, phone number, or email address.
+5 Users should be able to update existing contacts by modifying any of their fields or adding/removing phone numbers and email addresses.
+6 The system should support deleting contacts from the database.
+7 Users should be able to search for contacts by their first name, last name, company, job title, phone number, or email address.
